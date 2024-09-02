@@ -203,3 +203,8 @@ html, body {
   margin-bottom: 10px;
   text-align: center;
 }
+
+/* global.css หรือ CSS module */
+.avatar {
+  margin-top: 2rem; /* หรือใช้ค่าอื่น ๆ ตามความต้องการ */
+}
